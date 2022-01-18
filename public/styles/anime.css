@@ -1,0 +1,53 @@
+.animePlayerBg{
+    margin-right: 500px;
+    height: 910px;
+    width: 1900px;
+    background-color: #202021;
+}
+.animeVideo{
+    margin-left: 293px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.title{
+    margin-left: 15px;
+    color: white;
+    max-width: 1220px;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.age-limit{
+    margin-right: 200px;
+    color: white;
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+.animePlayerVideo{
+    background-color: rgba(5,5,5,0.94);
+    width: 1320px;
+    height: 600px;
+    margin-bottom: 32px;
+}
+
+.btn-search-player{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.btn-player{
+    margin-left: 500px;
+    margin-top: 5px;
+}
+
+.btn-player-control{
+    margin-right: 10px;
+}
+.footer-text-player{
+}
+
+.text-player-gray{
+    color: #999;
+}
+.line-player-gray{
+    color: #999;
+}
